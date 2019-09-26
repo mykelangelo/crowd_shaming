@@ -1,6 +1,6 @@
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-violet.svg)](https://github.com/Naereen/badges)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-goldenrod.svg?style=shield)](http://makeapullrequest.com) 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmykelangelo%2Fcrowd-shaming" alt="Hits">
+[![HitCount](http://hits.dwyl.io/mykelangelo/crowd-shaming.svg)](http://hits.dwyl.io/mykelangelo/crowd-shaming)
 
 # crowd-shaming
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd-shaming.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd-shaming?ref=badge_shield)
