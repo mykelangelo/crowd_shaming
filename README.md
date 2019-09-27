@@ -8,9 +8,6 @@ Open-source crowd-funded Dart&#x2F;Flutter application for traffic violation rep
 [![HitCount](http://hits.dwyl.io/mykelangelo/crowd_shaming.svg)](http://hits.dwyl.io/mykelangelo/crowd_shaming)
 
 
-Ever seen car driver violating traffic law? Now you can make it stop! Anonymous unsavory drivers reporting tool #1 in Ukraine. Opensource!
-
-
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming?ref=badge_large)
