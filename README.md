@@ -1,12 +1,11 @@
-# crowd_shaming
-
-Open-source crowd-funded Dart&#x2F;Flutter application for traffic violation reporting No.1 in Ukraine
-
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming?ref=badge_shield)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-violet.svg)](https://github.com/Naereen/badges)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-goldenrod.svg?style=shield)](http://makeapullrequest.com) 
 [![HitCount](http://hits.dwyl.io/mykelangelo/crowd_shaming.svg)](http://hits.dwyl.io/mykelangelo/crowd_shaming)
 
+# crowd_shaming
+
+Open-source crowd-funded Dart&#x2F;Flutter application for traffic violation reporting No.1 in Ukraine
 
 
 ## License
