@@ -1,3 +1,5 @@
+[![Snyk app/build](https://snyk.io//test/github/mykelangelo/crowd_shaming/badge.svg?targetFile=android/app/build.gradle)](https://snyk.io//test/github/mykelangelo/crowd_shaming?targetFile=android/app/build.gradle)
+[![Snyk build](https://snyk.io//test/github/mykelangelo/crowd_shaming/badge.svg?targetFile=android/build.gradle)](https://snyk.io//test/github/mykelangelo/crowd_shaming?targetFile=android/build.gradle)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2Fcrowd_shaming?ref=badge_shield)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-violet.svg)](https://github.com/Naereen/badges)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-goldenrod.svg?style=shield)](http://makeapullrequest.com) 
