@@ -7,7 +7,7 @@
 
 # crowd_shaming
 
-Open-source crowd-funded Dart&#x2F;Flutter application for traffic violation reporting No.1 in Ukraine
+Anonymous open-source crowd-funded Dart&#x2F;Flutter application for traffic violation reporting No.1 in Ukraine
 
 
 ## License
