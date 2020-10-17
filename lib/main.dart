@@ -91,13 +91,15 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
-              'Ви надаслали стільки звітів про правопорушення:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headline4,
-            ),
+            _counter > 0
+                ? Text(
+                    'Ви надаслали звіт про правопорушення #$_counter',
+                    style: Theme.of(context).textTheme.headline4,
+                  )
+                : Text(
+                    'Надішліть звіт про правопорушення, натиснувши кнопку нижче.',
+                    style: Theme.of(context).textTheme.headline4,
+                  ),
           ],
         ),
       ),
